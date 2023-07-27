@@ -1,76 +1,79 @@
-# Contributor Covenant Code of Conduct
+# Contributing to ohmyzsh
 
-## Our Pledge
+Welcome to Capstone Rails! We appreciate your interest in contributing. This document outlines the guidelines for contributing to this project and how you can get involved.
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+## Table of Contents
 
-## Our Standards
+- [Introduction](#introduction)
+- [Ways to Contribute](#ways-to-contribute)
+- [Getting Started](#getting-started)
+- [Guidelines](#guidelines)
+- [Code of Conduct](#code-of-conduct)
+- [Support](#support)
 
-Examples of behavior that contributes to creating a positive environment
-include:
+## Introduction
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+Capstone Rails is an open-source project aimed at building a powerful and scalable web application using Ruby on Rails. We welcome contributions from anyone interested in improving or adding new features to the project.
 
-Examples of unacceptable behavior by participants include:
+## Ways to Contribute
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+There are several ways you can contribute to the project:
 
-## Our Responsibilities
+1. Reporting Bugs: If you encounter any issues or bugs while using Capstone Rails, please submit a detailed bug report.
+2. Suggesting Enhancements: If you have ideas for new features or improvements, we encourage you to submit enhancement suggestions.
+3. Writing Code: You can contribute by writing code to fix bugs, implement new features, or improve existing functionality.
+4. Documentation: Help improve the project's documentation by fixing errors, adding examples, or clarifying existing content.
+5. Testing: You can contribute by testing the project, verifying bug fixes, or validating new features.
+6. Providing Feedback: Share your experience, give feedback on existing features, or propose improvements.
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+## Getting Started
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+To get started with contributing to Capstone Rails, please follow these steps:
 
-## Scope
+1. Fork the repository on GitHub.
+2. Clone the forked repository to your local machine.
+3. Set up the project by following the instructions in the README file.
+4. Create a new branch for your contributions.
+5. Make your changes or additions.
+6. Commit your changes with a descriptive commit message.
+7. Push your changes to your forked repository.
+8. Submit a pull request to the main repository, explaining the changes you have made.
 
-This Code of Conduct applies within all project spaces, and it also applies when
-an individual is representing the project or its community in public spaces.
-Examples of representing a project or community include using an official
-project e-mail address, posting via an official social media account, or acting
-as an appointed representative at an online or offline event. Representation of
-a project may be further defined and clarified by project maintainers.
+## Guidelines
 
-## Enforcement
+To ensure a smooth and effective contribution process, please adhere to the following guidelines:
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at ohmyzsh@planetargon.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+- Follow the coding style and conventions used in the project.
+- Write clear and concise commit messages.
+- Provide detailed descriptions for bug reports and enhancement suggestions.
+- Test your changes thoroughly before submitting a pull request.
+- Be respectful and considerate when interacting with other contributors.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+## Code of Conduct
 
-## Attribution
+Contributors are expected to adhere to the project's Code of Conduct. Please read the [CODE_OF_CONDUCT.md](link/to/CODE_OF_CONDUCT.md) for more details.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+## Support
 
-[homepage]: https://www.contributor-covenant.org
+If you need any help or have questions about Capstone Rails, feel free to reach out to us through [contact information or channels].
 
-For answers to common questions about this code of conduct, see
-https://www.contributor-covenant.org/faq
+Thank you for your interest in contributing to Capstone Rails. Your contributions are greatly appreciated!
+
+We encourage you to familiarize yourself with this document before making any contributions. Happy contributing!
+
+## 👨‍💻 Authors <a name=author></a>
+
+
+### 👤 **Ahmed Hasan Rony**
+
+- GitHub: [@roniy68](https://github.com/roniy68)
+- Twitter: [@Ahmed Hasan Rony](https://twitter.com/ahroniy)
+- LinkedIn: [@Ahmed Hasan Rony](https://www.linkedin.com/in/ahroniy/)
+
+
+**_Please Reach out to any of the Authors if you want to contribute_**
+
+##### Email ME : [ahmed.hasan.rony@gmail.com](mailto:ahmed.hasan.rony@gmail.com)
+
+Happy Coding 🙃
+
