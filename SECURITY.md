@@ -1,24 +1,21 @@
+# [ ohmyzsh ]
+
 # Security Policy
 
-## Supported Versions
+## Reporting a Security Issue
 
-At the moment Oh My Zsh only considers the very latest commit to be supported.
-We combine that with our fast response to incidents and the automated updates
-to minimize the time between vulnerability publication and patch release.
+At ohmyzsh, we take security issues seriously and appreciate your efforts to responsibly disclose them. If you discover any security vulnerabilities or concerns within the project, please report them to us immediately. This will help ensure the security and privacy of our users and the project as a whole.
 
-| Version        | Supported          |
-|:-------------- |:------------------ |
-| master         | :white_check_mark: |
-| other commits  | :x:                |
+To report a security issue, please follow these steps:
 
-In the near future we will introduce versioning, so expect this section to change.
+1. **Do not** disclose the vulnerability publicly until it has been addressed by the project maintainers.
+2. Email us at [ahmed.hasan.rony@gmail.com](mailto:ahmed.hasan.rony@gmail.com) with a detailed description of the issue.
+3. Include relevant information, such as steps to reproduce, affected versions, and any potential mitigations.
+4. We will acknowledge your report within [X days] and provide updates on the progress towards addressing the issue.
+5. Once the vulnerability is fixed, we will publicly acknowledge your contribution and include you in the list of responsible reporters, unless you prefer to remain anonymous.
 
-## Reporting a Vulnerability
+Please note that this security policy applies to the official releases of ohmyzsh. If you are using a modified or third-party version, please reach out to the respective maintainers for their security policy.
 
-**Do not submit an issue or pull request**: this might reveal the vulnerability.
 
-Instead, you should email the maintainers directly at: [**security@ohmyz.sh**](mailto:security@ohmyz.sh).
 
-We will deal with the vulnerability privately and submit a patch as soon as possible.
 
-You can also submit your vulnerability report to [huntr.dev](https://huntr.dev/bounties/disclose/?utm_campaign=ohmyzsh%2Fohmyzsh&utm_medium=social&utm_source=github&target=https%3A%2F%2Fgithub.com%2Fohmyzsh%2Fohmyzsh) and see if you can get a bounty reward.
